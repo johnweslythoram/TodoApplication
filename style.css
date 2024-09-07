@@ -1,0 +1,134 @@
+.todo-subheading{
+    font-size: 32px;
+    font-weight: 800;
+}
+.todo-subheading-subpart{
+    font-size: 32px;
+    font-weight: 500;
+}
+.todo-input{
+    background-color: white;
+    width: 100%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e4e7eb;
+    border-radius: 10px;
+    margin-top: 10px;
+    padding: 15px;
+}
+.todo-button{
+    color: white;
+    background-color: #4c63b6;
+    font-family: "Roboto";
+    font-size: 18px;
+    border-width: 0px;
+    border-radius: 4px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.checked{
+    text-decoration: line-through;
+}
+
+.todoitems-heading{
+    font-size: 32px;
+    font-weight: 800;
+}
+
+.todoitems-heading-subpart{
+    font-size: 32px;
+    font-weight: 500;
+}
+
+.todo-container{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.todo-inner-container{
+    margin-top: 15px;
+}
+
+.labelcontainer{
+    background-color: #e6f6ff;
+    width: 100%;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #096f92;
+    border-top: none;
+    border-right: none;
+    border-bottom: none;
+    border-radius: 4px;
+}
+
+.labelcontainer1{
+    background-color: #e6f6ff;
+    width: 100%;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #096f92;
+    border-top: none;
+    border-right: none;
+    border-bottom: none;
+    border-radius: 4px;
+    opacity: 60%;
+}
+
+.labelicon{
+    text-align: right;
+    width: 18%;
+}
+
+.icon{
+    padding: 15px;
+}
+
+.labelicon1{
+    text-align: right;
+    width: 8%;
+}
+
+.icon1{
+    padding: 15px;
+    padding-right: 0px;
+}
+
+.label-text {
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+    width: 82%;
+    margin: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+  }
+
+  .label-text1 {
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+    width: 80%;
+    margin: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 20px;
+    border-radius: 5px;
+    text-decoration: line-through;
+  }
+
+.todo-checkbox{
+    width: 20px;
+    height: 20px;
+    margin-top: 12px;
+    margin-right: 12px;
+}
